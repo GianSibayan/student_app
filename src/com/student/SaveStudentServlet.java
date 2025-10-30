@@ -1,7 +1,6 @@
 package com.student;
 
 // --- IMPORTANT! ---
-// We use 'jakarta.servlet' because we are on Tomcat 11
 // If we were on Tomcat 9, we would use 'javax.servlet'
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
